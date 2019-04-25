@@ -1,0 +1,32 @@
+body {
+    font-family: 'Montserrat';
+    text-align: justify;
+    
+}
+header{
+    background-image: url(../images/sure-lad.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 790px;
+    
+}
+.contain{
+    margin: 15px;
+}
+.content{
+    margin: auto;
+    padding: 100px;
+}
+
+.about{
+    font-style: 30px;
+}
+section{
+    min-height: 600px;  
+}
+footer{ 
+    height: 100px;
+}
+.btn{
+    border-radius: 15px 2px 15px 2px;
+}
